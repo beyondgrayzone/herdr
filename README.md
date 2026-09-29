@@ -23,6 +23,8 @@ This extension closes that gap. Once loaded, a Herdr pane running Kit reports:
 - idle
 ```
 
+![Herdr showing a Kit pane reporting its agent state](demo.png)
+
 ## Table of Contents
 
 - [Quick Start](#quick-start)
